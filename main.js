@@ -1,5 +1,5 @@
 import * as THREE from "three";
-import { OrbitControls } from "three-orbit-controls";
+import { OrbitControls } from "OrbitControls";
 
 let renderer, scene, camera;
 let group;
