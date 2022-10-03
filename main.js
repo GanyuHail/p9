@@ -1,4 +1,4 @@
-import * as THREE from "./node_modules/three";
+import * as THREE from "three";
 import { OrbitControls } from "./node_modules/three/addons/controls/OrbitControls.js";
 
 let renderer, scene, camera;
